@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WordPile
+comment1.params=cap
+comment1.target=WordPile(int)
+comment2.params=v
+comment2.target=void\ pushChar(char)
+comment3.params=
+comment3.target=char\ popChar()
+numComments=4
